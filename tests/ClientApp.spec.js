@@ -4,7 +4,7 @@ const { test, expect } = require('@playwright/test');
 // npx playwright test
 
 
-test.only('Browser context playwrigt test', async ({ page }) => {
+test('Browser context playwrigt test', async ({ page }) => {
 
     const username = "omeryttnc2@gmail.com"
     const password = "bbMdTHsd6wEg6xc";

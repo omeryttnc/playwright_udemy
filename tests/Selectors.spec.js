@@ -4,7 +4,7 @@ const { test, expect } = require('@playwright/test');
 // npx playwright test
 
 
-test.only('Browser context playwrigt test', async ({ page }) => {
+test('Browser context playwrigt test', async ({ page }) => {
 
     const documetink = page.locator("[href*='documents-request']");
     await page.goto("https://rahulshettyacademy.com/loginpagePractise/");

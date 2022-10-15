@@ -4,7 +4,7 @@ const { test, expect } = require('@playwright/test');
 // npx playwright test
 
 
-test.only('Browser context playwrigt test', async ({ browser }) => {
+test('Browser context playwrigt test', async ({ browser }) => {
 
     const context = await browser.newContext();
     const page = await context.newPage();
