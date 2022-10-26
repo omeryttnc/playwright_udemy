@@ -4,7 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "regression": "npx playwright test",
+    "webTest": "npx playwright test --grep Web",
+    "apiTest": "npx playwright test --grep API",
+
+    "iPhone11":"npx playwright test --config playwright.config1.js --project=iPhone",
+    
+    "aGenerate": "allure generate my-allure-results -o allure-report --clean",
+    "aOpen": "allure open allure-report"
   },
   "jest": {
     "testPathIgnorePatterns": [
@@ -15,7 +22,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.27.0",
+    "@playwright/test": "^1.27.1",
+    "allure-commandline": "^2.18.1",
+    "allure-playwright": "^2.0.0-beta.19",
     "jest": "^29.1.2"
   }
 }

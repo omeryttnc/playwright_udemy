@@ -1,0 +1,11 @@
+[ {
+  "uid" : "226715c91809ead9",
+  "name" : "@Web Browser context playwrigt test",
+  "time" : {
+    "start" : 1666793021308,
+    "stop" : 1666793056760,
+    "duration" : 35452
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-SVJGT9O",
+    "children" : [ {
+      "name" : "DESKTOP-SVJGT9O-7448-playwright-worker-0",
+      "children" : [ {
+        "name" : "@Web Browser context playwrigt test",
+        "uid" : "226715c91809ead9",
+        "parentUid" : "af50e6133ad1d65db9fd85481daac681",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666793021308,
+          "stop" : 1666793056760,
+          "duration" : 35452
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "af50e6133ad1d65db9fd85481daac681"
+    } ],
+    "uid" : "4e34d29dd9bd4bbb7e612db980ab054a"
+  } ]
+}
