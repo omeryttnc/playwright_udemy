@@ -1,1 +1,460 @@
-{"uid":"ab17fc5a4eb3bca4b216b548c7f9fcbc","name":"timeline","children":[{"name":"DESKTOP-SVJGT9O","children":[{"name":"DESKTOP-SVJGT9O-9620-playwright-worker-3","children":[{"name":"Browser context playwrigt test omeryttnc5@gmail.com","uid":"203814700f48fbcd","parentUid":"f6dfaf9517c9c3504a92ee14f51d3654","status":"passed","time":{"start":1666812344327,"stop":1666812358683,"duration":14356},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]},{"name":"Browser context playwrigt test omeryttnc4@gmail.com","uid":"82192c5d72a6ebb2","parentUid":"f6dfaf9517c9c3504a92ee14f51d3654","status":"passed","time":{"start":1666812329332,"stop":1666812344314,"duration":14982},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]},{"name":"Browser context playwrigt test omeryttnc3@gmail.com","uid":"c887e1e7ef5df4ed","parentUid":"f6dfaf9517c9c3504a92ee14f51d3654","status":"passed","time":{"start":1666812291196,"stop":1666812313278,"duration":22082},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]},{"name":"Browser context playwrigt test omeryttnc2@gmail.com","uid":"efbf84ced8d9674e","parentUid":"f6dfaf9517c9c3504a92ee14f51d3654","status":"passed","time":{"start":1666812313325,"stop":1666812329213,"duration":15888},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]},{"name":"Browser context playwrigt test","uid":"7b6ac08a78b07e1c","parentUid":"f6dfaf9517c9c3504a92ee14f51d3654","status":"passed","time":{"start":1666812262754,"stop":1666812291161,"duration":28407},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":1,"retriesStatusChange":true,"parameters":[]},{"name":"Browser context playwrigt test ","uid":"45fa7ce899384c24","parentUid":"f6dfaf9517c9c3504a92ee14f51d3654","status":"passed","time":{"start":1666812358686,"stop":1666812372877,"duration":14191},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]}],"uid":"f6dfaf9517c9c3504a92ee14f51d3654"},{"name":"DESKTOP-SVJGT9O-9620-playwright-worker-4","children":[{"name":"utilities deneme","uid":"b2f51cd5794fe35f","parentUid":"b706ff55032a478d4151558e833110b4","status":"passed","time":{"start":1666812281110,"stop":1666812299666,"duration":18556},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]},{"name":"Browser context playwrigt test","uid":"1aa9506dcb2ada82","parentUid":"b706ff55032a478d4151558e833110b4","status":"passed","time":{"start":1666812263852,"stop":1666812280912,"duration":17060},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":1,"retriesStatusChange":true,"parameters":[]},{"name":"screen shoot","uid":"a7339a8b29a68358","parentUid":"b706ff55032a478d4151558e833110b4","status":"broken","time":{"start":1666812299729,"stop":1666812360327,"duration":60598},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]}],"uid":"b706ff55032a478d4151558e833110b4"},{"name":"DESKTOP-SVJGT9O-9620-playwright-worker-1","children":[{"name":"basic test","uid":"abaf30703047984e","parentUid":"742e44c3cc7bc907540f2f1484efaea4","status":"passed","time":{"start":1666812176680,"stop":1666812183046,"duration":6366},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]},{"name":"Browser context playwrigt test","uid":"172c184b6db8b9eb","parentUid":"742e44c3cc7bc907540f2f1484efaea4","status":"broken","time":{"start":1666812208661,"stop":1666812261528,"duration":52867},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]},{"name":"basic test","uid":"8357758bb58b52f2","parentUid":"742e44c3cc7bc907540f2f1484efaea4","status":"passed","time":{"start":1666812183056,"stop":1666812187057,"duration":4001},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]},{"name":"Browser context playwrigt test","uid":"15a0ddaf1be9c300","parentUid":"742e44c3cc7bc907540f2f1484efaea4","status":"passed","time":{"start":1666812187087,"stop":1666812208580,"duration":21493},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]}],"uid":"742e44c3cc7bc907540f2f1484efaea4"},{"name":"DESKTOP-SVJGT9O-9620-playwright-worker-7","children":[{"name":"screen shoot","uid":"14591a2d59b16fb3","parentUid":"716a1529d43a0456469b26f1df90deee","status":"passed","time":{"start":1666812364847,"stop":1666812388533,"duration":23686},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":1,"retriesStatusChange":true,"parameters":[]},{"name":"visual","uid":"4c94cafe51d0acb1","parentUid":"716a1529d43a0456469b26f1df90deee","status":"failed","time":{"start":1666812388535,"stop":1666812392379,"duration":3844},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]}],"uid":"716a1529d43a0456469b26f1df90deee"},{"name":"DESKTOP-SVJGT9O-9620-playwright-worker-2","children":[{"name":"@API Browser context playwrigt test","uid":"245eb36bacf0bf2f","parentUid":"2562f48a6de1295cabcdc0b64cf017c5","status":"passed","time":{"start":1666812190102,"stop":1666812213687,"duration":23585},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]},{"name":"Browser context playwrigt test","uid":"15b4d8c9569c5f9","parentUid":"2562f48a6de1295cabcdc0b64cf017c5","status":"broken","time":{"start":1666812213742,"stop":1666812260766,"duration":47024},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]},{"name":"basic test","uid":"ab7ae0065de10825","parentUid":"2562f48a6de1295cabcdc0b64cf017c5","status":"passed","time":{"start":1666812184935,"stop":1666812190058,"duration":5123},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]},{"name":"basic test","uid":"a91c21d1d13f7e87","parentUid":"2562f48a6de1295cabcdc0b64cf017c5","status":"passed","time":{"start":1666812176681,"stop":1666812182288,"duration":5607},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]},{"name":"basic test","uid":"adb5474dbdb9debd","parentUid":"2562f48a6de1295cabcdc0b64cf017c5","status":"passed","time":{"start":1666812182355,"stop":1666812184903,"duration":2548},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]}],"uid":"2562f48a6de1295cabcdc0b64cf017c5"},{"name":"DESKTOP-SVJGT9O-9620-playwright-worker-6","children":[{"name":"Browser context playwrigt test","uid":"a2802e2170deaac0","parentUid":"970bed72d34b9dd909bf7b0c2aad0b37","status":"passed","time":{"start":1666812348160,"stop":1666812360648,"duration":12488},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]},{"name":"page playwrigt test","uid":"1daa9b7a6b2cf7d6","parentUid":"970bed72d34b9dd909bf7b0c2aad0b37","status":"passed","time":{"start":1666812372658,"stop":1666812381313,"duration":8655},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]},{"name":"Browser context playwrigt test","uid":"829ec7fde6d25c57","parentUid":"970bed72d34b9dd909bf7b0c2aad0b37","status":"passed","time":{"start":1666812360693,"stop":1666812372656,"duration":11963},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]}],"uid":"970bed72d34b9dd909bf7b0c2aad0b37"},{"name":"DESKTOP-SVJGT9O-9620-playwright-worker-0","children":[{"name":"@API utilities deneme","uid":"517dc32a52ea4681","parentUid":"d5684cecd697c065f3060dd417f814c2","status":"passed","time":{"start":1666812194284,"stop":1666812213822,"duration":19538},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]},{"name":"@Web Browser context playwrigt test","uid":"ab1a32e125d088b7","parentUid":"d5684cecd697c065f3060dd417f814c2","status":"passed","time":{"start":1666812176388,"stop":1666812194250,"duration":17862},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]},{"name":"first","uid":"5daaa2c487a6ff61","parentUid":"d5684cecd697c065f3060dd417f814c2","status":"broken","time":{"start":1666812213912,"stop":1666812268872,"duration":54960},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[]}],"uid":"d5684cecd697c065f3060dd417f814c2"},{"name":"DESKTOP-SVJGT9O-9620-playwright-worker-8","children":[{"name":"visual","uid":"b0fc6a9c825237de","parentUid":"8a4fb29bcc215cbdbe57df1282cf979a","status":"failed","time":{"start":1666812393565,"stop":1666812399293,"duration":5728},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":1,"retriesStatusChange":false,"parameters":[]}],"uid":"8a4fb29bcc215cbdbe57df1282cf979a"},{"name":"DESKTOP-SVJGT9O-9620-playwright-worker-5","children":[{"name":"first","uid":"4dbd52fe73955982","parentUid":"7506eba59f00f728bc9f10b9842d4cac","status":"broken","time":{"start":1666812277949,"stop":1666812315676,"duration":37727},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":1,"retriesStatusChange":false,"parameters":[]}],"uid":"7506eba59f00f728bc9f10b9842d4cac"}],"uid":"4e34d29dd9bd4bbb7e612db980ab054a"}]}
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-SVJGT9O",
+    "children" : [ {
+      "name" : "DESKTOP-SVJGT9O-9620-playwright-worker-2",
+      "children" : [ {
+        "name" : "Browser context playwrigt test",
+        "uid" : "819991d0fe6b8d41",
+        "parentUid" : "2562f48a6de1295cabcdc0b64cf017c5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1666812213742,
+          "stop" : 1666812260766,
+          "duration" : 47024
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "basic test",
+        "uid" : "e130c4967b9b2f9",
+        "parentUid" : "2562f48a6de1295cabcdc0b64cf017c5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812182355,
+          "stop" : 1666812184903,
+          "duration" : 2548
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "basic test",
+        "uid" : "57a0506fb6706477",
+        "parentUid" : "2562f48a6de1295cabcdc0b64cf017c5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812176681,
+          "stop" : 1666812182288,
+          "duration" : 5607
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "@API Browser context playwrigt test",
+        "uid" : "a4c40ec2c66a0da8",
+        "parentUid" : "2562f48a6de1295cabcdc0b64cf017c5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812190102,
+          "stop" : 1666812213687,
+          "duration" : 23585
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "basic test",
+        "uid" : "f3bf97b5c9643378",
+        "parentUid" : "2562f48a6de1295cabcdc0b64cf017c5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812184935,
+          "stop" : 1666812190058,
+          "duration" : 5123
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2562f48a6de1295cabcdc0b64cf017c5"
+    }, {
+      "name" : "DESKTOP-SVJGT9O-9620-playwright-worker-0",
+      "children" : [ {
+        "name" : "@Web Browser context playwrigt test",
+        "uid" : "317797b516fa4138",
+        "parentUid" : "d5684cecd697c065f3060dd417f814c2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812176388,
+          "stop" : 1666812194250,
+          "duration" : 17862
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "@API utilities deneme",
+        "uid" : "bb1394635043e54e",
+        "parentUid" : "d5684cecd697c065f3060dd417f814c2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812194284,
+          "stop" : 1666812213822,
+          "duration" : 19538
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "first",
+        "uid" : "a702f891d6cdd82f",
+        "parentUid" : "d5684cecd697c065f3060dd417f814c2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1666812213912,
+          "stop" : 1666812268872,
+          "duration" : 54960
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d5684cecd697c065f3060dd417f814c2"
+    }, {
+      "name" : "DESKTOP-SVJGT9O-9620-playwright-worker-7",
+      "children" : [ {
+        "name" : "screen shoot",
+        "uid" : "d6a044234b545cbf",
+        "parentUid" : "716a1529d43a0456469b26f1df90deee",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812364847,
+          "stop" : 1666812388533,
+          "duration" : 23686
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "visual",
+        "uid" : "1dd8069153086025",
+        "parentUid" : "716a1529d43a0456469b26f1df90deee",
+        "status" : "failed",
+        "time" : {
+          "start" : 1666812388535,
+          "stop" : 1666812392379,
+          "duration" : 3844
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "716a1529d43a0456469b26f1df90deee"
+    }, {
+      "name" : "DESKTOP-SVJGT9O-9620-playwright-worker-3",
+      "children" : [ {
+        "name" : "Browser context playwrigt test omeryttnc5@gmail.com",
+        "uid" : "1e0bad65ef162ba0",
+        "parentUid" : "f6dfaf9517c9c3504a92ee14f51d3654",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812344327,
+          "stop" : 1666812358683,
+          "duration" : 14356
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Browser context playwrigt test ",
+        "uid" : "bc17f9d6ae56d1d5",
+        "parentUid" : "f6dfaf9517c9c3504a92ee14f51d3654",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812358686,
+          "stop" : 1666812372877,
+          "duration" : 14191
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Browser context playwrigt test omeryttnc2@gmail.com",
+        "uid" : "b46fa153d3be3234",
+        "parentUid" : "f6dfaf9517c9c3504a92ee14f51d3654",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812313325,
+          "stop" : 1666812329213,
+          "duration" : 15888
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Browser context playwrigt test omeryttnc3@gmail.com",
+        "uid" : "d521270b7c1bdd7",
+        "parentUid" : "f6dfaf9517c9c3504a92ee14f51d3654",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812291196,
+          "stop" : 1666812313278,
+          "duration" : 22082
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Browser context playwrigt test",
+        "uid" : "1a8d1a29a65edfa4",
+        "parentUid" : "f6dfaf9517c9c3504a92ee14f51d3654",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812262754,
+          "stop" : 1666812291161,
+          "duration" : 28407
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Browser context playwrigt test omeryttnc4@gmail.com",
+        "uid" : "e1d9ee8cf1b98cc4",
+        "parentUid" : "f6dfaf9517c9c3504a92ee14f51d3654",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812329332,
+          "stop" : 1666812344314,
+          "duration" : 14982
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f6dfaf9517c9c3504a92ee14f51d3654"
+    }, {
+      "name" : "DESKTOP-SVJGT9O-9620-playwright-worker-8",
+      "children" : [ {
+        "name" : "visual",
+        "uid" : "42177f24a1f05900",
+        "parentUid" : "8a4fb29bcc215cbdbe57df1282cf979a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1666812393565,
+          "stop" : 1666812399293,
+          "duration" : 5728
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8a4fb29bcc215cbdbe57df1282cf979a"
+    }, {
+      "name" : "DESKTOP-SVJGT9O-9620-playwright-worker-1",
+      "children" : [ {
+        "name" : "Browser context playwrigt test",
+        "uid" : "6e395e153843a1f0",
+        "parentUid" : "742e44c3cc7bc907540f2f1484efaea4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812187087,
+          "stop" : 1666812208580,
+          "duration" : 21493
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Browser context playwrigt test",
+        "uid" : "9b24f89c5ee8e048",
+        "parentUid" : "742e44c3cc7bc907540f2f1484efaea4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1666812208661,
+          "stop" : 1666812261528,
+          "duration" : 52867
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "basic test",
+        "uid" : "5ef950113a0934cc",
+        "parentUid" : "742e44c3cc7bc907540f2f1484efaea4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812183056,
+          "stop" : 1666812187057,
+          "duration" : 4001
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "basic test",
+        "uid" : "23e0bffa01640fed",
+        "parentUid" : "742e44c3cc7bc907540f2f1484efaea4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812176680,
+          "stop" : 1666812183046,
+          "duration" : 6366
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "742e44c3cc7bc907540f2f1484efaea4"
+    }, {
+      "name" : "DESKTOP-SVJGT9O-9620-playwright-worker-6",
+      "children" : [ {
+        "name" : "Browser context playwrigt test",
+        "uid" : "505441cc9c851351",
+        "parentUid" : "970bed72d34b9dd909bf7b0c2aad0b37",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812348160,
+          "stop" : 1666812360648,
+          "duration" : 12488
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Browser context playwrigt test",
+        "uid" : "a990d4aa52081cea",
+        "parentUid" : "970bed72d34b9dd909bf7b0c2aad0b37",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812360693,
+          "stop" : 1666812372656,
+          "duration" : 11963
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "page playwrigt test",
+        "uid" : "47dfcb0fa8020b77",
+        "parentUid" : "970bed72d34b9dd909bf7b0c2aad0b37",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812372658,
+          "stop" : 1666812381313,
+          "duration" : 8655
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "970bed72d34b9dd909bf7b0c2aad0b37"
+    }, {
+      "name" : "DESKTOP-SVJGT9O-8824-playwright-worker-0",
+      "children" : [ {
+        "name" : "together",
+        "uid" : "80ff50353c76ab6a",
+        "parentUid" : "136d16a1fe8d4755ea2eae8e508a4886",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666814210562,
+          "stop" : 1666814213112,
+          "duration" : 2550
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "136d16a1fe8d4755ea2eae8e508a4886"
+    }, {
+      "name" : "DESKTOP-SVJGT9O-9620-playwright-worker-5",
+      "children" : [ {
+        "name" : "first",
+        "uid" : "d4734e8e5171ff31",
+        "parentUid" : "7506eba59f00f728bc9f10b9842d4cac",
+        "status" : "broken",
+        "time" : {
+          "start" : 1666812277949,
+          "stop" : 1666812315676,
+          "duration" : 37727
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7506eba59f00f728bc9f10b9842d4cac"
+    }, {
+      "name" : "DESKTOP-SVJGT9O-9620-playwright-worker-4",
+      "children" : [ {
+        "name" : "Browser context playwrigt test",
+        "uid" : "b612339c177b901c",
+        "parentUid" : "b706ff55032a478d4151558e833110b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812263852,
+          "stop" : 1666812280912,
+          "duration" : 17060
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "screen shoot",
+        "uid" : "89b8e746af80c80d",
+        "parentUid" : "b706ff55032a478d4151558e833110b4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1666812299729,
+          "stop" : 1666812360327,
+          "duration" : 60598
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "utilities deneme",
+        "uid" : "ce29e785ff7c82dd",
+        "parentUid" : "b706ff55032a478d4151558e833110b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666812281110,
+          "stop" : 1666812299666,
+          "duration" : 18556
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b706ff55032a478d4151558e833110b4"
+    }, {
+      "name" : "DESKTOP-SVJGT9O-7840-playwright-worker-0",
+      "children" : [ {
+        "name" : "together",
+        "uid" : "1ae4cfa5726ea95",
+        "parentUid" : "7ede11c5ee3e8b2e5b6e741e1c011322",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666813995239,
+          "stop" : 1666813997704,
+          "duration" : 2465
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7ede11c5ee3e8b2e5b6e741e1c011322"
+    }, {
+      "name" : "DESKTOP-SVJGT9O-13104-playwright-worker-0",
+      "children" : [ {
+        "name" : "together",
+        "uid" : "96a94ff3ce1fb0c6",
+        "parentUid" : "0db378ccd30fb847255cbc0eb1bcc408",
+        "status" : "passed",
+        "time" : {
+          "start" : 1666813813623,
+          "stop" : 1666813816146,
+          "duration" : 2523
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0db378ccd30fb847255cbc0eb1bcc408"
+    } ],
+    "uid" : "4e34d29dd9bd4bbb7e612db980ab054a"
+  } ]
+}

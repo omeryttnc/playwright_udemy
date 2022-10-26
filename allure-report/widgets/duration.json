@@ -1,1 +1,241 @@
-[{"uid":"b2f51cd5794fe35f","name":"utilities deneme","time":{"start":1666812281110,"stop":1666812299666,"duration":18556},"status":"passed","severity":"normal"},{"uid":"a91c21d1d13f7e87","name":"basic test","time":{"start":1666812176681,"stop":1666812182288,"duration":5607},"status":"passed","severity":"normal"},{"uid":"82192c5d72a6ebb2","name":"Browser context playwrigt test omeryttnc4@gmail.com","time":{"start":1666812329332,"stop":1666812344314,"duration":14982},"status":"passed","severity":"normal"},{"uid":"1daa9b7a6b2cf7d6","name":"page playwrigt test","time":{"start":1666812372658,"stop":1666812381313,"duration":8655},"status":"passed","severity":"normal"},{"uid":"c887e1e7ef5df4ed","name":"Browser context playwrigt test omeryttnc3@gmail.com","time":{"start":1666812291196,"stop":1666812313278,"duration":22082},"status":"passed","severity":"normal"},{"uid":"abaf30703047984e","name":"basic test","time":{"start":1666812176680,"stop":1666812183046,"duration":6366},"status":"passed","severity":"normal"},{"uid":"1aa9506dcb2ada82","name":"Browser context playwrigt test","time":{"start":1666812263852,"stop":1666812280912,"duration":17060},"status":"passed","severity":"normal"},{"uid":"adb5474dbdb9debd","name":"basic test","time":{"start":1666812182355,"stop":1666812184903,"duration":2548},"status":"passed","severity":"normal"},{"uid":"8357758bb58b52f2","name":"basic test","time":{"start":1666812183056,"stop":1666812187057,"duration":4001},"status":"passed","severity":"normal"},{"uid":"245eb36bacf0bf2f","name":"@API Browser context playwrigt test","time":{"start":1666812190102,"stop":1666812213687,"duration":23585},"status":"passed","severity":"normal"},{"uid":"829ec7fde6d25c57","name":"Browser context playwrigt test","time":{"start":1666812360693,"stop":1666812372656,"duration":11963},"status":"passed","severity":"normal"},{"uid":"15a0ddaf1be9c300","name":"Browser context playwrigt test","time":{"start":1666812187087,"stop":1666812208580,"duration":21493},"status":"passed","severity":"normal"},{"uid":"ab1a32e125d088b7","name":"@Web Browser context playwrigt test","time":{"start":1666812176388,"stop":1666812194250,"duration":17862},"status":"passed","severity":"normal"},{"uid":"efbf84ced8d9674e","name":"Browser context playwrigt test omeryttnc2@gmail.com","time":{"start":1666812313325,"stop":1666812329213,"duration":15888},"status":"passed","severity":"normal"},{"uid":"517dc32a52ea4681","name":"@API utilities deneme","time":{"start":1666812194284,"stop":1666812213822,"duration":19538},"status":"passed","severity":"normal"},{"uid":"45fa7ce899384c24","name":"Browser context playwrigt test ","time":{"start":1666812358686,"stop":1666812372877,"duration":14191},"status":"passed","severity":"normal"},{"uid":"ab7ae0065de10825","name":"basic test","time":{"start":1666812184935,"stop":1666812190058,"duration":5123},"status":"passed","severity":"normal"},{"uid":"7b6ac08a78b07e1c","name":"Browser context playwrigt test","time":{"start":1666812262754,"stop":1666812291161,"duration":28407},"status":"passed","severity":"normal"},{"uid":"a2802e2170deaac0","name":"Browser context playwrigt test","time":{"start":1666812348160,"stop":1666812360648,"duration":12488},"status":"passed","severity":"normal"},{"uid":"b0fc6a9c825237de","name":"visual","time":{"start":1666812393565,"stop":1666812399293,"duration":5728},"status":"failed","severity":"normal"},{"uid":"4dbd52fe73955982","name":"first","time":{"start":1666812277949,"stop":1666812315676,"duration":37727},"status":"broken","severity":"normal"},{"uid":"203814700f48fbcd","name":"Browser context playwrigt test omeryttnc5@gmail.com","time":{"start":1666812344327,"stop":1666812358683,"duration":14356},"status":"passed","severity":"normal"},{"uid":"14591a2d59b16fb3","name":"screen shoot","time":{"start":1666812364847,"stop":1666812388533,"duration":23686},"status":"passed","severity":"normal"}]
+[ {
+  "uid" : "1a8d1a29a65edfa4",
+  "name" : "Browser context playwrigt test",
+  "time" : {
+    "start" : 1666812262754,
+    "stop" : 1666812291161,
+    "duration" : 28407
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47dfcb0fa8020b77",
+  "name" : "page playwrigt test",
+  "time" : {
+    "start" : 1666812372658,
+    "stop" : 1666812381313,
+    "duration" : 8655
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4c40ec2c66a0da8",
+  "name" : "@API Browser context playwrigt test",
+  "time" : {
+    "start" : 1666812190102,
+    "stop" : 1666812213687,
+    "duration" : 23585
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a990d4aa52081cea",
+  "name" : "Browser context playwrigt test",
+  "time" : {
+    "start" : 1666812360693,
+    "stop" : 1666812372656,
+    "duration" : 11963
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b612339c177b901c",
+  "name" : "Browser context playwrigt test",
+  "time" : {
+    "start" : 1666812263852,
+    "stop" : 1666812280912,
+    "duration" : 17060
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "23e0bffa01640fed",
+  "name" : "basic test",
+  "time" : {
+    "start" : 1666812176680,
+    "stop" : 1666812183046,
+    "duration" : 6366
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce29e785ff7c82dd",
+  "name" : "utilities deneme",
+  "time" : {
+    "start" : 1666812281110,
+    "stop" : 1666812299666,
+    "duration" : 18556
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb1394635043e54e",
+  "name" : "@API utilities deneme",
+  "time" : {
+    "start" : 1666812194284,
+    "stop" : 1666812213822,
+    "duration" : 19538
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc17f9d6ae56d1d5",
+  "name" : "Browser context playwrigt test ",
+  "time" : {
+    "start" : 1666812358686,
+    "stop" : 1666812372877,
+    "duration" : 14191
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42177f24a1f05900",
+  "name" : "visual",
+  "time" : {
+    "start" : 1666812393565,
+    "stop" : 1666812399293,
+    "duration" : 5728
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3bf97b5c9643378",
+  "name" : "basic test",
+  "time" : {
+    "start" : 1666812184935,
+    "stop" : 1666812190058,
+    "duration" : 5123
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "505441cc9c851351",
+  "name" : "Browser context playwrigt test",
+  "time" : {
+    "start" : 1666812348160,
+    "stop" : 1666812360648,
+    "duration" : 12488
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e395e153843a1f0",
+  "name" : "Browser context playwrigt test",
+  "time" : {
+    "start" : 1666812187087,
+    "stop" : 1666812208580,
+    "duration" : 21493
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "317797b516fa4138",
+  "name" : "@Web Browser context playwrigt test",
+  "time" : {
+    "start" : 1666812176388,
+    "stop" : 1666812194250,
+    "duration" : 17862
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e0bad65ef162ba0",
+  "name" : "Browser context playwrigt test omeryttnc5@gmail.com",
+  "time" : {
+    "start" : 1666812344327,
+    "stop" : 1666812358683,
+    "duration" : 14356
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d521270b7c1bdd7",
+  "name" : "Browser context playwrigt test omeryttnc3@gmail.com",
+  "time" : {
+    "start" : 1666812291196,
+    "stop" : 1666812313278,
+    "duration" : 22082
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4734e8e5171ff31",
+  "name" : "first",
+  "time" : {
+    "start" : 1666812277949,
+    "stop" : 1666812315676,
+    "duration" : 37727
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5ef950113a0934cc",
+  "name" : "basic test",
+  "time" : {
+    "start" : 1666812183056,
+    "stop" : 1666812187057,
+    "duration" : 4001
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b46fa153d3be3234",
+  "name" : "Browser context playwrigt test omeryttnc2@gmail.com",
+  "time" : {
+    "start" : 1666812313325,
+    "stop" : 1666812329213,
+    "duration" : 15888
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57a0506fb6706477",
+  "name" : "basic test",
+  "time" : {
+    "start" : 1666812176681,
+    "stop" : 1666812182288,
+    "duration" : 5607
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e130c4967b9b2f9",
+  "name" : "basic test",
+  "time" : {
+    "start" : 1666812182355,
+    "stop" : 1666812184903,
+    "duration" : 2548
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1d9ee8cf1b98cc4",
+  "name" : "Browser context playwrigt test omeryttnc4@gmail.com",
+  "time" : {
+    "start" : 1666812329332,
+    "stop" : 1666812344314,
+    "duration" : 14982
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6a044234b545cbf",
+  "name" : "screen shoot",
+  "time" : {
+    "start" : 1666812364847,
+    "stop" : 1666812388533,
+    "duration" : 23686
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80ff50353c76ab6a",
+  "name" : "together",
+  "time" : {
+    "start" : 1666814210562,
+    "stop" : 1666814213112,
+    "duration" : 2550
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
