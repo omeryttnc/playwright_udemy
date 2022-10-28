@@ -32,6 +32,6 @@ test("together", async({page},testInfo)=>{
     allure.epic("Epic 3");
     allure.id("id 3");
     allure.story("Story 2");
-    allure.severity("P1");
+    allure.severity("blocker");
 
 })

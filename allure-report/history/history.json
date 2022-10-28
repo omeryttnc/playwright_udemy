@@ -1,23 +1,4 @@
 {
-  " allure_example\\labelUsage.spec.js basic test" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "e130c4967b9b2f9",
-      "status" : "passed",
-      "time" : {
-        "start" : 1666812182355,
-        "stop" : 1666812184903,
-        "duration" : 2548
-      }
-    } ]
-  },
   " ClientApp.spec.js Browser context playwrigt test" : {
     "statistic" : {
       "failed" : 0,
@@ -28,12 +9,31 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1a8d1a29a65edfa4",
+      "uid" : "e4fecbea72bb0db4",
       "status" : "passed",
       "time" : {
         "start" : 1666812262754,
         "stop" : 1666812291161,
         "duration" : 28407
+      }
+    } ]
+  },
+  " allure_example\\labelUsage.spec.js basic test" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef70d3d9b16caaa5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666812182355,
+        "stop" : 1666812184903,
+        "duration" : 2548
       }
     } ]
   },
@@ -47,7 +47,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "47dfcb0fa8020b77",
+      "uid" : "f2578f6de0828690",
       "status" : "passed",
       "time" : {
         "start" : 1666812372658,
@@ -66,7 +66,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "42177f24a1f05900",
+      "uid" : "1568524a6106eeeb",
       "status" : "failed",
       "statusDetails" : "C:\\Users\\savsa\\source\\repos\\playwright_udemy\\tests\\section_10_visiaul_perform.spec.js-snapshots\\landing-win32.png is missing in snapshots, writing actual.",
       "time" : {
@@ -86,7 +86,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "317797b516fa4138",
+      "uid" : "cc7a9fac11f6d2db",
       "status" : "passed",
       "time" : {
         "start" : 1666812176388,
@@ -105,7 +105,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6e395e153843a1f0",
+      "uid" : "fd732f0874f37001",
       "status" : "passed",
       "time" : {
         "start" : 1666812187087,
@@ -124,7 +124,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5ef950113a0934cc",
+      "uid" : "6400b4bb956ac4ab",
       "status" : "passed",
       "time" : {
         "start" : 1666812183056,
@@ -143,12 +143,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "80ff50353c76ab6a",
+      "uid" : "43f49c5476de2d00",
       "status" : "passed",
       "time" : {
-        "start" : 1666814210562,
-        "stop" : 1666814213112,
-        "duration" : 2550
+        "start" : 1666814466135,
+        "stop" : 1666814468664,
+        "duration" : 2529
       }
     } ]
   },
@@ -162,7 +162,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a4c40ec2c66a0da8",
+      "uid" : "b338e851b20a1274",
       "status" : "passed",
       "time" : {
         "start" : 1666812190102,
@@ -181,7 +181,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b46fa153d3be3234",
+      "uid" : "27e621ab27ae2daa",
       "status" : "passed",
       "time" : {
         "start" : 1666812313325,
@@ -200,7 +200,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "57a0506fb6706477",
+      "uid" : "5c350ebbb488bb0c",
       "status" : "passed",
       "time" : {
         "start" : 1666812176681,
@@ -219,7 +219,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "bb1394635043e54e",
+      "uid" : "2161cf39f9b8645",
       "status" : "passed",
       "time" : {
         "start" : 1666812194284,
@@ -238,50 +238,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d521270b7c1bdd7",
+      "uid" : "ba8e9771e9c7a731",
       "status" : "passed",
       "time" : {
         "start" : 1666812291196,
         "stop" : 1666812313278,
         "duration" : 22082
-      }
-    } ]
-  },
-  " PageObjec.spec.js Browser context playwrigt test omeryttnc4@gmail.com" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "e1d9ee8cf1b98cc4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1666812329332,
-        "stop" : 1666812344314,
-        "duration" : 14982
-      }
-    } ]
-  },
-  " ChildWindowHandling.spec.js Browser context playwrigt test" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "b612339c177b901c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1666812263852,
-        "stop" : 1666812280912,
-        "duration" : 17060
       }
     } ]
   },
@@ -295,12 +257,31 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "23e0bffa01640fed",
+      "uid" : "7cd4ea2ca921a2e8",
       "status" : "passed",
       "time" : {
         "start" : 1666812176680,
         "stop" : 1666812183046,
         "duration" : 6366
+      }
+    } ]
+  },
+  " PageObjec.spec.js Browser context playwrigt test omeryttnc4@gmail.com" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eb88c684b775204e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666812329332,
+        "stop" : 1666812344314,
+        "duration" : 14982
       }
     } ]
   },
@@ -314,7 +295,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ce29e785ff7c82dd",
+      "uid" : "7c2b1d54e99c5ca2",
       "status" : "passed",
       "time" : {
         "start" : 1666812281110,
@@ -323,7 +304,7 @@
       }
     } ]
   },
-  " section_10_visiaul_perform.spec.js screen shoot" : {
+  " ChildWindowHandling.spec.js Browser context playwrigt test" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -333,12 +314,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d6a044234b545cbf",
+      "uid" : "c59f4d046339c80b",
       "status" : "passed",
       "time" : {
-        "start" : 1666812364847,
-        "stop" : 1666812388533,
-        "duration" : 23686
+        "start" : 1666812263852,
+        "stop" : 1666812280912,
+        "duration" : 17060
       }
     } ]
   },
@@ -352,12 +333,31 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f3bf97b5c9643378",
+      "uid" : "4f0322a376a9c1c4",
       "status" : "passed",
       "time" : {
         "start" : 1666812184935,
         "stop" : 1666812190058,
         "duration" : 5123
+      }
+    } ]
+  },
+  " section_10_visiaul_perform.spec.js screen shoot" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "69238f520faa27be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666812364847,
+        "stop" : 1666812388533,
+        "duration" : 23686
       }
     } ]
   },
@@ -371,7 +371,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "505441cc9c851351",
+      "uid" : "3dd44e87f7b3dac2",
       "status" : "passed",
       "time" : {
         "start" : 1666812348160,
@@ -390,32 +390,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a990d4aa52081cea",
+      "uid" : "7af58c098d0df7ed",
       "status" : "passed",
       "time" : {
         "start" : 1666812360693,
         "stop" : 1666812372656,
         "duration" : 11963
-      }
-    } ]
-  },
-  " MoreValidations.spec.js first" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "d4734e8e5171ff31",
-      "status" : "broken",
-      "statusDetails" : "Test timeout of 30000ms exceeded while tearing down \"context\".",
-      "time" : {
-        "start" : 1666812277949,
-        "stop" : 1666812315676,
-        "duration" : 37727
       }
     } ]
   },
@@ -429,12 +409,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "bc17f9d6ae56d1d5",
+      "uid" : "ff00ae82f450bf5d",
       "status" : "passed",
       "time" : {
         "start" : 1666812358686,
         "stop" : 1666812372877,
         "duration" : 14191
+      }
+    } ]
+  },
+  " MoreValidations.spec.js first" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6ff9a88e261401d5",
+      "status" : "broken",
+      "statusDetails" : "Test timeout of 30000ms exceeded while tearing down \"context\".",
+      "time" : {
+        "start" : 1666812277949,
+        "stop" : 1666812315676,
+        "duration" : 37727
       }
     } ]
   },
@@ -448,7 +448,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1e0bad65ef162ba0",
+      "uid" : "f0b0ab196618d756",
       "status" : "passed",
       "time" : {
         "start" : 1666812344327,
